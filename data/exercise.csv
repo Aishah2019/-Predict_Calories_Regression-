@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Aishah2019 
-rymyf
-/
-Predict_Calories_Regression
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Predict_Calories_Regression/data/exercise.csv
-@rymyf
-rymyf Upload mvp
-Latest commit 5058f57 23 days ago
- History
- 1 contributor
-15001 lines (15001 sloc)  661 KB
-   
-We can't make this file beautiful and searchable because it's too large.
 User_ID,Gender,Age,Height,Weight,Duration,Heart_Rate,Body_Temp
 14733363,male,68,190.0,94.0,29.0,105.0,40.8
 14861698,female,20,166.0,60.0,14.0,94.0,40.3
